@@ -1,0 +1,15 @@
+Vehiculo: 
+ placa='exd18b', 
+ marca='discover', 
+ color='negra', 
+ valorComercial=30000000', 
+ fechaIngreso= 31/05/2021 23:47:13', 
+ tipoVehiculo= Moto
+Vehiculo: 
+ placa='kio62d', 
+ marca='ferrari', 
+ color='rojo', 
+ valorComercial=30000000', 
+ fechaIngreso= 31/05/2021 23:47:27', 
+ tipoVehiculo= Carro
+
